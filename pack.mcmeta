@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 69,
+	  "supported_formats": {"min_inclusive": 64, "max_inclusive": 75},
+    "description": "SPM RP §av1.1 - 1.21.7-1.21.11§r\nLicense: §eCC BY-NC-SA 4.0§r"
+  }
+}
