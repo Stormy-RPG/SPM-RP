@@ -6,28 +6,28 @@
 
 		"cases": [
 			{
-				"when": ["Scottish Ale", "Эль Шотландский"],
+				"when": ["Scottish ale", "Эль Шотландский"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/ale"
 				}
 			},
 			{
-				"when": ["Aperol Spritz", "Апероль Поросолочка"],
+				"when": ["Aperol Spritz", "Апероль Спритц"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/aperole"
 				}
 			},
 			{
-				"when": ["Fatty Flask Beer", "Пиво Жирная Флямоножка"],
+				"when": ["Fatty Flask beer", "Пиво \"Жирная Флямоножка\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/beer"
 				}
 			},
 			{
-				"when": ["Champagne \"Locomotive\"", "Шампусик Паровоз"],
+				"when": ["Champagne \"Locomotive\"", "Шампанское \"Паровоз\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/champagne"
@@ -41,14 +41,14 @@
 				}
 			},
 			{
-				"when": ["Gelendzhik cognac", "Коньяк Геленджик"],
+				"when": ["Gelendzhik сognac", "Коньяк \"Геленджик\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/cognac"
 				}
 			},
 			{
-				"when": ["Deep bob dark beer", "Тёмное пиво Deep bob"],
+				"when": ["Deep Bob dark beer", "Тёмное пиво \"Deep Bob\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/darkbeer"
@@ -62,14 +62,14 @@
 				}
 			},
 			{
-				"when": ["The Great Call Gin", "Джин Великий Зов"],
+				"when": ["The Great Call gin", "Джин \"Великий Зов\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/gin"
 				}
 			},
 			{
-				"when": ["Glass of Champagne", "Бокал Шампанского"],
+				"when": ["Glass of champagne", "Бокал шампанского"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/glassofchampagne"
@@ -83,56 +83,56 @@
 				}
 			},
 			{
-				"when": ["Apple juice", "Сок Яблочный"],
+				"when": ["Apple juice", "Яблочный сок"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/juice"
 				}
 			},
 			{
-				"when": ["Kvass \"Karsenysh\"", "Квас Карсёныш"],
+				"when": ["Kvass \"Karsenysh\"", "Квас \"Карсёныш\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/kvass"
 				}
 			},
 			{
-				"when": ["Bashir Krai Liqueur", "Ликёр Баширский Край"],
+				"when": ["Bashkir Krai liqueur", "Ликёр \"Башкирский Край\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/liquor"
 				}
 			},
 			{
-				"when": ["Litenergy", "Энергетик"],
+				"when": ["Litenergy"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/litenergy"
 				}
 			},
 			{
-				"when": ["Honey Bee mead", "Медовуха Пчёлка"],
+				"when": ["Honey Bee mead", "Медовуха \"Пчёлка\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/mead"
 				}
 			},
 			{
-				"when": ["Mineral water \"Arza\"", "Минералка Арза"],
+				"when": ["Mineral water \"Arza\"", "Минеральная вода \"Арза\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/mineralwater"
 				}
 			},
 			{
-				"when": ["Mojito Tiktonic", "Мохито Тиктоник"],
+				"when": ["Mojito Tiktonic", "Мохито \"Tiktonic\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/mojita"
 				}
 			},
 			{
-				"when": ["Moonshine \"Dedovsky\"", "Самогон Дедовский"],
+				"when": ["Moonshine \"Dedovsky\"", "Самогон \"Дедовский\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/moonshine"
@@ -146,7 +146,7 @@
 				}
 			},
 			{
-				"when": ["Kok Saker Rum", "Ром Кок сакер"],
+				"when": ["Kok Saker rum", "Ром \"Kok Saker\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/rum"
@@ -160,21 +160,21 @@
 				}
 			},
 			{
-				"when": ["Green Tea", "Чай Зелёный"],
+				"when": ["Green tea", "Зелёный чай"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/tea"
 				}
 			},
 			{
-				"when": ["Barmovukha tincture", "Настойка Бармовуха"],
+				"when": ["Barmovukha tincture", "Настойка \"Бармовуха\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/tincture"
 				}
 			},
 			{
-				"when": ["Vodka \"The Power of the ancestors\"", "Водка Мощь предков"],
+				"when": ["Vodka \"The Power of the ancestors\"", "Водка \"Мощь предков\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/vodka"
@@ -188,14 +188,14 @@
 				}
 			},
 			{
-				"when": ["JackDaniels Whiskey", "Виски JackDaniels"],
+				"when": ["Jack Daniel's whiskey", "Виски \"Jack Daniel's\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/whiskey"
 				}
 			},
 			{
-				"when": ["Vital's wine", "Вино Виталя"],
+				"when": ["Vitalya wine", "Вино \"Виталя\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/wine"
