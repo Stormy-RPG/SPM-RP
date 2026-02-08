@@ -1,0 +1,48 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": ["Hookah Bowl Double Apple", "Чаша Двойное яблоко"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookahbowlgreen"
+        }
+      },
+      {
+        "when": ["Hookah Bowl Tropics", "Чаша Тропики"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookahbowlorange"
+        }
+      },
+      {
+        "when": ["Hookah Bowl Forest Berries", "Чаша Лесные ягоды"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookahbowlpurple"
+        }
+      },
+      {
+        "when": ["Hookah Bowl Wild Cherry", "Чаша Дикая вишня"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookahbowlred"
+        }
+      },
+      {
+        "when": ["Hookah Bowl", "Чаша"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookahbowl"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/flower_pot"
+    }
+  }
+}

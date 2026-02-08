@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": ["Mug", "Кружка"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/mug"
+        }
+      },
+      {
+        "when": ["Hookah", "Кальян"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/hookah/hookah"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/glass_bottle"
+    }
+  }
+}

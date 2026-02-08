@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": ["Chef's Knife", "Нож шефа"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mirrp:item/other/chiefknife"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_sword"
+    }
+  }
+}
