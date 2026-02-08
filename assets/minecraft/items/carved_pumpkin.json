@@ -243,6 +243,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/plushies/bear_plushie"
                 }
+            },
+            {
+                "when": ["Comedy", "Комедия"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/comedy"
+                }
             }
         ],
         "fallback": {

@@ -1,0 +1,195 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Hair Dryer", "Фен"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/hairdryer"
+                }
+            },
+            {
+                "when": ["Jar of Pickles", "Банка с огурцами"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/jarofpickles"
+                }
+            },
+            {
+                "when": ["Large Axle", "Большая ось"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/largeaxle"
+                }
+            },
+            {
+                "when": ["Magic 7 Ball", "Магический 7 шар"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/magic7ball"
+                }
+            },
+            {
+                "when": ["Painting", "Картина"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/painting"
+                }
+            },
+            {
+                "when": ["Perfume Bottle", "Парфюм"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/perfumebottle"
+                }
+            },
+            {
+                "when": ["Remote", "Пульт"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/remote"
+                }
+            },
+            {
+                "when": ["Ring", "Кольцо"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/ring"
+                }
+            },
+            {
+                "when": ["Toy Robot", "Игрушечный робот"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/robot"
+                }
+            },
+            {
+                "when": ["Rubber Ducky", "Резиновая уточка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/rubberducky"
+                }
+            },
+            {
+                "when": ["Small Plush Fox", "Маленькая плюшевая лисичка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/smallfox"
+                }
+            },
+            {
+                "when": ["Stop Sign", "Знак стоп"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/stopsign"
+                }
+            },
+            {
+                "when": ["Toilet Paper", "Туалетная бумага"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/toiletpaper"
+                }
+            },
+            {
+                "when": ["Big Bolt", "Большой болт"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/bigbolt"
+                }
+            },
+            {
+                "when": ["Bottles", "Бутылки"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/bottles"
+                }
+            },
+            {
+                "when": ["Brass Bell", "Медный колокол"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/brassbell"
+                }
+            },
+            {
+                "when": ["Cash Register", "Кассовый аппарат"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/cashregister"
+                }
+            },
+            {
+                "when": ["Clock", "Часы"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/clock"
+                }
+            },
+            {
+                "when": ["Clown Horn", "Клоунский гудок"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/clownhorn"
+                }
+            },
+            {
+                "when": ["Soda Bottle", "Бутылка содовой"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/cola"
+                }
+            },
+            {
+                "when": ["Cookie Mold Pan", "Форма для выпечки"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/cookiemoldpan"
+                }
+            },
+            {
+                "when": ["Fancy Lamp", "Причудливая лампа"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/fancylamp"
+                }
+            },
+            {
+                "when": ["Flask", "Колба"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/flask"
+                }
+            },
+            {
+                "when": ["Gift Box", "Подарок"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/giftbox"
+                }
+            },
+            {
+                "when": ["Gold Bar", "Золотой слиток"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/goldbar"
+                }
+            },
+            {
+                "when": ["Golden Cup", "Золотая чаша"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/scrap/goldencup"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_nugget"
+        }
+    }
+}
