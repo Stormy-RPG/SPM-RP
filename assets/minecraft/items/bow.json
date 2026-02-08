@@ -1,0 +1,75 @@
+{
+  "oversized_in_gui": true,
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": ["LP Revolver", "Револьвер LP"],
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:use_duration",
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/protocollockdown/revolver_pulling"
+              }
+            },
+            {
+              "threshold": 13,
+              "model": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/protocollockdown/revolver_pulling"
+              }
+            },
+            {
+              "threshold": 18,
+              "model": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/protocollockdown/revolver_pulling"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "mirrp:item/protocollockdown/revolver"
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:use_duration",
+      "entries": [
+        {
+          "threshold": 1,
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_0"
+          }
+        },
+        {
+          "threshold": 13,
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_1"
+          }
+        },
+        {
+          "threshold": 18,
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/bow_pulling_2"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/bow"
+      }
+    }
+  }
+}
