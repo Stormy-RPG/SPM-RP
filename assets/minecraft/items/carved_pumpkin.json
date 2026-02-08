@@ -1,0 +1,162 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Bolotnik Cigarette", "Сигарета \"Болотник\""],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/greensigareta"
+                }
+            },
+            {
+                "when": ["Watermelon Helmet", "Арбузный шлем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/melonhelmet"
+                }
+            },
+
+
+            {
+                "when": ["Beige Furry Ears", "Бежевые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/beigefurryears"
+                }
+            },
+            {
+                "when": ["Black Furry Ears", "Чёрные ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/blackfurryears"
+                }
+            },
+            {
+                "when": ["Blue Furry Ears", "Синие ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/bluefurryears"
+                }
+            },
+            {
+                "when": ["Brown Furry Ears", "Коричневые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/brownfurryears"
+                }
+            },
+            {
+                "when": ["Cherry Furry Ears", "Вишнёвые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/cherryfurryears"
+                }
+            },
+            {
+                "when": ["Turquoise Furry Ears", "Бирюзовые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/cyanfurryears"
+                }
+            },
+            {
+                "when": ["Gray Furry Ears", "Серые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/grayfurryears"
+                }
+            },
+            {
+                "when": ["Green Furry Ears", "Зелёные ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/greenfurryears"
+                }
+            },
+            {
+                "when": ["Lavender Furry Ears", "Лавандовые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/lavenderfurryears"
+                }
+            },
+            {
+                "when": ["Light Blue Furry Ears", "Голубые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/lightbluefurryears"
+                }
+            },
+            {
+                "when": ["Light Gray Furry Ears", "Светло-серые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/lightgrayfurryears"
+                }
+            },
+            {
+                "when": ["Lime Furry Ears", "Лаймовые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/limefurryears"
+                }
+            },
+            {
+                "when": ["Magenta Furry Ears", "Пурпурные ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/magentafurryears"
+                }
+            },
+            {
+                "when": ["Orange Furry Ears", "Рыжие ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/orangefurryears"
+                }
+            },
+            {
+                "when": ["Pink Furry Ears", "Розовые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/pinkfurryears"
+                }
+            },
+            {
+                "when": ["Purple Furry Ears", "Фиолетовые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/purplefurryears"
+                }
+            },
+            {
+                "when": ["Red Furry Ears", "Красные ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/redfurryears"
+                }
+            },
+            {
+                "when": ["White Furry Ears", "Белые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/whitefurryears"
+                }
+            },
+            {
+                "when": ["Yellow Furry Ears", "Жёлтые ушки фурри"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/hats/furryears/yellowfurryears"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+		    "model": "minecraft:block/carved_pumpkin"
+        }
+    }
+}

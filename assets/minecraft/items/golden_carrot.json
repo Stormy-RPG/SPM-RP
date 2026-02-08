@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Candy Basket", "Корзина с конфетами"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/food/dishes/candybasket"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_carrot"
+        }
+    }
+}

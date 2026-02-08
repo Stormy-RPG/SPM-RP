@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Hotdog", "Хотдог"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/food/dishes/hotdog"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cooked_porkchop"
+        }
+    }
+}

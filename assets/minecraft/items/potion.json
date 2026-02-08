@@ -6,7 +6,7 @@
 
 		"cases": [
 			{
-				"when": ["Scottish ale", "Эль Шотландский"],
+				"when": ["Scottish Ale", "Эль Шотландский"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/ale"
@@ -20,7 +20,7 @@
 				}
 			},
 			{
-				"when": ["Fatty Flask beer", "Пиво \"Жирная Флямоножка\""],
+				"when": ["Fatty Flask Beer", "Пиво \"Жирная Флямоножка\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/beer"
@@ -34,56 +34,56 @@
 				}
 			},
 			{
-				"when": ["Cappuccino", "Капучино"],
+				"when": ["Mug of Cappuccino", "Кружка капучино"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/coffe"
 				}
 			},
 			{
-				"when": ["Gelendzhik сognac", "Коньяк \"Геленджик\""],
+				"when": ["Gelendzhik Cognac", "Коньяк \"Геленджик\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/cognac"
 				}
 			},
 			{
-				"when": ["Deep Bob dark beer", "Тёмное пиво \"Deep Bob\""],
+				"when": ["Deep Bob Dark Beer", "Тёмное пиво \"Deep Bob\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/darkbeer"
 				}
 			},
 			{
-				"when": ["Red drink 2", "Красный напиток 2"],
+				"when": ["Red Drink 2", "Красный напиток 2"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/drink"
 				}
 			},
 			{
-				"when": ["The Great Call gin", "Джин \"Великий Зов\""],
+				"when": ["The Great Call Gin", "Джин \"Великий Зов\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/gin"
 				}
 			},
 			{
-				"when": ["Glass of champagne", "Бокал шампанского"],
+				"when": ["Glass of Champagne", "Бокал шампанского"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/glassofchampagne"
 				}
 			},
 			{
-				"when": ["Honey kvass", "Медовый квас"],
+				"when": ["Honey Kvass", "Медовый квас"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/honeykvass"
 				}
 			},
 			{
-				"when": ["Apple juice", "Яблочный сок"],
+				"when": ["Apple Juice", "Яблочный сок"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/juice"
@@ -97,7 +97,7 @@
 				}
 			},
 			{
-				"when": ["Bashkir Krai liqueur", "Ликёр \"Башкирский Край\""],
+				"when": ["Bashkir Krai Liqueur", "Ликёр \"Башкирский Край\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/liquor"
@@ -111,14 +111,14 @@
 				}
 			},
 			{
-				"when": ["Honey Bee mead", "Медовуха \"Пчёлка\""],
+				"when": ["Honey Bee Mead", "Медовуха \"Пчёлка\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/mead"
 				}
 			},
 			{
-				"when": ["Mineral water \"Arza\"", "Минеральная вода \"Арза\""],
+				"when": ["Mineral Water \"Arza\"", "Минеральная вода \"Арза\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/mineralwater"
@@ -139,42 +139,42 @@
 				}
 			},
 			{
-				"when": ["Red drink", "Красный напиток"],
+				"when": ["Red Drink", "Красный напиток"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/reddrink"
 				}
 			},
 			{
-				"when": ["Kok Saker rum", "Ром \"Kok Saker\""],
+				"when": ["Kok Saker Rum", "Ром \"Kok Saker\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/rum"
 				}
 			},
 			{
-				"when": ["SP energy"],
+				"when": ["SP Energy"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/spenergy"
 				}
 			},
 			{
-				"when": ["Green tea", "Зелёный чай"],
+				"when": ["Green Tea", "Зелёный чай"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/tea"
 				}
 			},
 			{
-				"when": ["Barmovukha tincture", "Настойка \"Бармовуха\""],
+				"when": ["Barmovukha Tincture", "Настойка \"Бармовуха\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/tincture"
 				}
 			},
 			{
-				"when": ["Vodka \"The Power of the ancestors\"", "Водка \"Мощь предков\""],
+				"when": ["Vodka \"The Power of the Ancestors\"", "Водка \"Мощь предков\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/vodka"
@@ -188,19 +188,164 @@
 				}
 			},
 			{
-				"when": ["Jack Daniel's whiskey", "Виски \"Jack Daniel's\""],
+				"when": ["Jack Daniel's Whiskey", "Виски \"Jack Daniel's\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/whiskey"
 				}
 			},
 			{
-				"when": ["Vitalya wine", "Вино \"Виталя\""],
+				"when": ["Vitalya Wine", "Вино \"Виталя\""],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/wine"
 				}
+			},
+
+
+
+
+			{
+				"when": ["Bottle of Cola", "Бутылка колы"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/cola"
+				}
+			},
+			{
+				"when": ["Berry Juice", "Ягодный сок"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/juice"
+				}
+			},
+			{
+				"when": ["Mug of Tea", "Кружка чая"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/tea"
+				}
+			},
+			{
+				"when": ["Americano", "Американо"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/coffee/americano"
+				}
+			},
+			{
+				"when": ["Cappuccino", "Капучино"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/coffee/cappuccino"
+				}
+			},
+			{
+				"when": ["Espresso", "Эспрессо"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/coffee/expresso"
+				}
+			},
+			{
+				"when": ["Latte", "Латте"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/coffee/latte"
+				}
+			},
+			{
+				"when": ["Blackreach Blonde", "Чёрнодальское светлое пиво"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/drgbeer/blackreachblonde"
+				}
+			},
+			{
+				"when": ["Gutwrecker", "Опустошитель желудка"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/drgbeer/gutwrecker"
+				}
+			},
+			{
+				"when": ["Malt Rockbearer", "Солодовый скалоносец"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/drgbeer/maltrockbearer"
+				}
+			},
+			{
+				"when": ["Rocky Mountain", "Скалистая гора"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/drgbeer/rockymountain"
+				}
+			},
+			{
+				"when": ["Seasoned Moonrider", "Бывалый лунный всадник"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/drgbeer/seasonedmoonride"
+				}
+			},
+			{
+				"when": ["Chocolate Milkshake", "Шоколадный милкшейк"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/milkshakes/chocolatemilkshake"
+				}
+			},
+			{
+				"when": ["Pistachio Milkshake", "Фисташковый милкшейк"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/milkshakes/pistachiomilkshake"
+				}
+			},
+			{
+				"when": ["Berry Milkshake", "Ягодный милкшейк"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/milkshakes/sweetberrymilkshake"
+				}
+			},
+			{
+				"when": ["Vanilla Milkshake", "Ванильный милкшейк"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/drinks/milkshakes/vanillamilkshake"
+				}
+			},
+			{
+				"when": ["Chocolate Ice Cream", "Шоколадное мороженое"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/icecream/chocolateicecream"
+				}
+			},
+			{
+				"when": ["Pistachio Ice Cream", "Фисташковое мороженое"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/icecream/pistachioicecream"
+				}
+			},
+			{
+				"when": ["Sweetberry Ice Cream", "Ягодное мороженое"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/icecream/sweetberryicecream"
+				}
+			},
+			{
+				"when": ["Vanilla Ice Cream", "Ванильное мороженое"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/potions/icecream/vanillaicecream"
+				}
 			}
+
 		],
 		
 		"fallback": {
