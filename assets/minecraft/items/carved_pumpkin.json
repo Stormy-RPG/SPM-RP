@@ -152,6 +152,97 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/hats/furryears/yellowfurryears"
                 }
+            },
+            {
+                "when": ["Capybara Plushie", "Плюшевая капибара"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/capybara_plushie"
+                }
+            },
+            {
+                "when": ["Dinosaur Plushie", "Плюшевый динозавр"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/dinosaur_plushie"
+                }
+            },
+            {
+                "when": ["Duck Plushie", "Плюшевая уточка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/duck_plushie"
+                }
+            },
+            {
+                "when": ["Fox Plushie", "Плюшевая лиса"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/fox_plushie"
+                }
+            },
+            {
+                "when": ["Fennec Fox Plushie", "Плюшевый фенек"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/fox_plushie_fenec"
+                }
+            },
+            {
+                "when": ["White Fox Plushie", "Плюшевая белая лиса"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/fox_plushie_white"
+                }
+            },
+            {
+                "when": ["Frog Plushie", "Плюшевая жаба"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/frog_plushie"
+                }
+            },
+            {
+                "when": ["Hamster Plushie", "Плюшевый хомяк"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/hamster_plushie"
+                }
+            },
+            {
+                "when": ["Komaru Plushie", "Плюшевая Комару"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/komaru_plushie"
+                }
+            },
+            {
+                "when": ["Otter Plushie", "Плюшевая выдра"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/otter_plushie"
+                }
+            },
+            {
+                "when": ["Rat Plushie", "Плюшевая крыса"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/rat_plushie"
+                }
+            },
+            {
+                "when": ["Raven Plushie", "Плюшевый ворон"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/raven_plushie"
+                }
+            },
+            {
+                "when": ["Bear Plushie", "Плюшевый медведь"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/plushies/bear_plushie"
+                }
             }
         ],
         "fallback": {
