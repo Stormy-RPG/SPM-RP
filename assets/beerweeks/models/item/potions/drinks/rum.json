@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "beerweeks:item/potions/drinks/rom",
-		"particle": "beerweeks:item/potions/drinks/rom"
+		"0": "beerweeks:item/potions/drinks/rum",
+		"particle": "beerweeks:item/potions/drinks/rum"
 	},
 	"elements": [
 		{

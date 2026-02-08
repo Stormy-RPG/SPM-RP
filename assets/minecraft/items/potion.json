@@ -149,7 +149,7 @@
 				"when": ["Kok Saker Rum", "Ром Кок сакер"],
 				"model": {
 					"type": "minecraft:model",
-					"model": "beerweeks:item/potions/drinks/rom"
+					"model": "beerweeks:item/potions/drinks/rum"
 				}
 			},
 			{
