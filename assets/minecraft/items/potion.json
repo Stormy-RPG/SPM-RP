@@ -344,7 +344,16 @@
 					"type": "minecraft:model",
 					"model": "mirrp:item/potions/icecream/vanillaicecream"
 				}
-			}
+			},
+
+
+			{
+                "when": ["LC Inhalator", "Ингалятор LC"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/inhalator"
+                }
+            }
 
 		],
 		

@@ -250,6 +250,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/scrap/comedy"
                 }
+            },
+            {
+                "when": ["LC Lethal Helmet", "Шлем LC"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/lethalhelmet"
+                }
             }
         ],
         "fallback": {

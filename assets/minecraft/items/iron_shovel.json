@@ -10,6 +10,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/protocollockdown/screwdriver"
                 }
+            },
+            {
+                "when": ["LC Shovel", "Лопата LC"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/shovel"
+                }
             }
         ],
         "fallback": {

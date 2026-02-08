@@ -10,6 +10,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/protocollockdown/battery"
                 }
+            },
+            {
+                "when": ["LC Flashlight", "Фонарик LC"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/flashlight"
+                }
             }
         ],
         "fallback": {

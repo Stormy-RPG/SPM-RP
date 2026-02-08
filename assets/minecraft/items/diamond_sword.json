@@ -37,6 +37,13 @@
             "model": "mirrp:item/other/stingoffhand"
           }
         }
+      },
+      {
+        "when": ["LC Knife", "Нож LC"],
+        "model": {
+            "type": "minecraft:model",
+            "model": "mirrp:item/tools/knife"
+        }
       }
     ],
     "fallback": {

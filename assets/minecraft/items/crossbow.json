@@ -114,6 +114,64 @@
             }
           }
         }
+      },
+      {
+        "when": [
+          "Dobble Barreled Shotgun LC",
+          "Двухстволка LC"
+        ],
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:charge_type",
+          "cases": [
+            {
+              "when": "arrow",
+              "model": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/tools/dobblebarreledshotgun_charged"
+              }
+            },
+            {
+              "when": "rocket",
+              "model": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/tools/dobblebarreledshotgun_charged"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:condition",
+            "property": "minecraft:using_item",
+            "on_true": {
+              "type": "minecraft:range_dispatch",
+              "property": "minecraft:crossbow/pull",
+              "entries": [
+                {
+                  "threshold": 0.58,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/dobblebarreledshotgun"
+                  }
+                },
+                {
+                  "threshold": 1,
+                  "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/tools/dobblebarreledshotgun"
+                  }
+                }
+              ],
+              "fallback": {
+                "type": "minecraft:model",
+                "model": "mirrp:item/tools/dobblebarreledshotgun"
+              }
+            },
+            "on_false": {
+              "type": "minecraft:model",
+              "model": "mirrp:item/tools/dobblebarreledshotgun"
+            }
+          }
+        }
       }
     ],
     "fallback": {
