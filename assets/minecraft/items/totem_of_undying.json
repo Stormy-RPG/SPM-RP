@@ -10,6 +10,76 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/foxtotems/foxmelonhelmet"
                 }
+            },
+            {
+                "when": ["Fennec Totem", "Фенек тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/fox_plushie_totem_fenec"
+                }
+            },
+            {
+                "when": ["White Fox Totem", "Белый лисий тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/fox_plushie_totem_white"
+                }
+            },
+            {
+                "when": ["Frog Totem", "Жабий тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/frog_plushie_totem"
+                }
+            },
+            {
+                "when": ["Komaru Totem", "Комару тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/komaru_plushie_totem"
+                }
+            },
+            {
+                "when": ["Rat Totem", "Крысиный тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/rat_plushie_totem"
+                }
+            },
+            {
+                "when": ["Raven Totem", "Вороний тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/raven_plushie_totem"
+                }
+            },
+            {
+                "when": ["Bear Totem", "Медвежий тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/bear_plushie_totem"
+                }
+            },
+            {
+                "when": ["Capybara Totem", "Капибарий тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/capybara_plushie_totem"
+                }
+            },
+            {
+                "when": ["Dinosaur Totem", "Динозавр тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/dinosaur_plushie_totem"
+                }
+            },
+            {
+                "when": ["Fox Totem", "Лисий тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mirrp:item/totems/fox_plushie_totem"
+                }
             }
         ],
         "fallback": {
