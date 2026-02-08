@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "mirrp:item/potions/drinks/drgbeer/maltrockbearer"
+		"3": "mirrp:item/potions/drinks/drgbeer/maltrockbearer",
+		"particle": "mirrp:item/potions/drinks/drgbeer/maltrockbearer"
 	},
 	"elements": [
 		{

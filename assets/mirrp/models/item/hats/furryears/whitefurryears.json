@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "simplehats:item/hatparent",
 	"textures": {
-		"1": "mirrp:item/hats/furryears/whitefurryears"
+		"1": "mirrp:item/hats/furryears/whitefurryears",
+		"particle": "mirrp:item/hats/furryears/whitefurryears"
 	},
 	"elements": [
 		{

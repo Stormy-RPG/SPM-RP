@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"4": "mirrp:item/potions/drinks/coffee/cappuccino"
+		"4": "mirrp:item/potions/drinks/coffee/cappuccino",
+		"particle": "mirrp:item/potions/drinks/coffee/cappuccino"
 	},
 	"elements": [
 		{

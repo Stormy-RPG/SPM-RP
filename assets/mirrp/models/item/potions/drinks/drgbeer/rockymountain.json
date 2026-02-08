@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "mirrp:item/potions/drinks/drgbeer/rockymountain"
+		"1": "mirrp:item/potions/drinks/drgbeer/rockymountain",
+		"particle": "mirrp:item/potions/drinks/drgbeer/rockymountain"
 	},
 	"elements": [
 		{
