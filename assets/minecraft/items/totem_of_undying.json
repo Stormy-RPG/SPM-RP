@@ -80,6 +80,499 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/totems/fox_plushie_totem"
                 }
+            },
+
+
+
+
+
+
+
+
+            {
+                "when": ["Enchanted Cube DeL1TMe", "Зачарованный кубик DeL1TMe"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/del1tme"
+                }
+            },
+            {
+                "when": ["Enchanted Cube flower0k", "Зачарованный кубик flower0k"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/flower0k"
+                }
+            },
+            {
+                "when": ["Enchanted Cube Gasler", "Зачарованный кубик Gasler"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/gasler"
+                }
+            },
+            {
+                "when": ["Enchanted Cube HikaChinoowo", "Зачарованный кубик HikaChinoowo"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/hikachinoowo"
+                }
+            },
+            {
+                "when": ["Enchanted Cube KiteKatuRaaa", "Зачарованный кубик KiteKatuRaaa"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/kitekatura"
+                }
+            },
+            {
+                "when": ["Enchanted Cube LizkaMizka", "Зачарованный кубик LizkaMizka"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/lizkamizka"
+                }
+            },
+            {
+                "when": ["Enchanted Cube millionlavv", "Зачарованный кубик millionlavv"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/millionlavv"
+                }
+            },
+            {
+                "when": ["Enchanted Cube SherryJam", "Зачарованный кубик SherryJam"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/sherryjam"
+                }
+            },
+            {
+                "when": ["Enchanted Cube Vifoxy", "Зачарованный кубик Vifoxy"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/enchanted/vifoxy"
+                }
+            },
+
+            
+            {
+                "when": ["RGB cube __Medved", "RGB кубик __Medved"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/__medved"
+                }
+            },
+            {
+                "when": ["RGB cube DeL1TMe", "RGB кубик DeL1TMe"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/del1tme"
+                }
+            },
+            {
+                "when": ["RGB cube Gasler", "RGB кубик Gasler"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/gasler"
+                }
+            },
+            {
+                "when": ["RGB cube HikaChinoowo", "RGB кубик HikaChinoowo"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/hikachinoowo"
+                }
+            },
+            {
+                "when": ["RGB cube notsnaker", "RGB кубик notsnaker"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/notsnaker"
+                }
+            },
+            {
+                "when": ["RGB cube SherryJam", "RGB кубик SherryJam"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/sherryjam"
+                }
+            },
+            {
+                "when": ["RGB cube str1nks", "RGB кубик str1nks"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/rgb/str1nks"
+                }
+            },
+
+
+
+
+
+
+
+            {
+                "when": ["Cube __Medved", "Кубик __Medved"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/__medved"
+                }
+            },
+            {
+                "when": ["Cube 00faceless00", "Кубик 00faceless00"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/00faceless00"
+                }
+            },
+            {
+                "when": ["Cube Andanee", "Кубик Andanee"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/andanee"
+                }
+            },
+            {
+                "when": ["Cube Barash", "Кубик Бараш"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/barash"
+                }
+            },
+            {
+                "when": ["Cube DeL1TMe", "Кубик DeL1TMe"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/del1tme"
+                }
+            },
+            {
+                "when": ["Cube desskom v1", "Кубик desskom v1"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/desskom_v1"
+                }
+            },
+            {
+                "when": ["Cube desskom v2", "Кубик desskom v2"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/desskom_v2"
+                }
+            },
+            {
+                "when": ["Cube desskom v3", "Кубик desskom v3"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/desskom_v3"
+                }
+            },
+            {
+                "when": ["Cube Ezhik", "Кубик Ёжик"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/ezhik"
+                }
+            },
+            {
+                "when": ["Cube Fert6740", "Кубик Fert6740"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/fert6740"
+                }
+            },
+            {
+                "when": ["Cube flower0k", "Кубик flower0k"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/flower0k"
+                }
+            },
+            {
+                "when": ["Cube Fluxeus", "Кубик Fluxeus"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/fluxeus"
+                }
+            },
+            {
+                "when": ["Cube FondyEzh", "Кубик FondyEzh"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/fondyezh"
+                }
+            },
+            {
+                "when": ["Cube FruREN", "Кубик FruREN"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/fruren"
+                }
+            },
+            {
+                "when": ["Cube Gasler", "Кубик Gasler"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/gasler"
+                }
+            },
+            {
+                "when": ["Golden Cube", "Золотой кубик"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/golden_plushie"
+                }
+            },
+            {
+                "when": ["Cube HikaChinoowo", "Кубик HikaChinoowo"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/hikachinoowo"
+                }
+            },
+            {
+                "when": ["Cube Karich", "Кубик Карыч"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/karich"
+                }
+            },
+            {
+                "when": ["Cube Kart0feI", "Кубик Kart0feI"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/kart0fei"
+                }
+            },
+            {
+                "when": ["Cube Kislota", "Кубик Kislota"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/kislota"
+                }
+            },
+            {
+                "when": ["Cube KiteKatuRaaa", "Кубик KiteKatuRaaa"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/kitekatura"
+                }
+            },
+            {
+                "when": ["Cube Kopatich", "Кубик Копатыч"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/kopatich"
+                }
+            },
+            {
+                "when": ["Cube Krosh", "Кубик Крош"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/krosh"
+                }
+            },
+            {
+                "when": ["Cube LizkaMizka", "Кубик LizkaMizka"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/lizkamizka"
+                }
+            },
+            {
+                "when": ["Cube Losyash", "Кубик Лосяш"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/losyash"
+                }
+            },
+            {
+                "when": ["Cube mellonov_aa", "Кубик mellonov_aa"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/mellonov_aa"
+                }
+            },
+            {
+                "when": ["Cube millionlavv", "Кубик millionlavv"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/millionlavv"
+                }
+            },
+            {
+                "when": ["Cube Minoru_u", "Кубик Minoru_u"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/minoru_u"
+                }
+            },
+            {
+                "when": ["Cube MishandeckFM", "Кубик MishandeckFM"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/mishandeckfm"
+                }
+            },
+            {
+                "when": ["Cube Moksy44", "Кубик Moksy44"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/moksy44"
+                }
+            },
+            {
+                "when": ["Cube MrFloer", "Кубик MrFloer"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/mrfloer"
+                }
+            },
+            {
+                "when": ["Cube notsnaker", "Кубик notsnaker"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/notsnaker"
+                }
+            },
+            {
+                "when": ["Cube Nysha", "Кубик Нюша"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/nysha"
+                }
+            },
+            {
+                "when": ["Cube OpGlEr", "Кубик OpGlEr"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/opgler"
+                }
+            },
+            {
+                "when": ["Cube Pin", "Кубик Пин"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/pin"
+                }
+            },
+            {
+                "when": ["Cube Positiv555", "Кубик Positiv555"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/positiv555"
+                }
+            },
+            {
+                "when": ["Halloween Cube", "Хэллоуинский кубик"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/pumpkin"
+                }
+            },
+            {
+                "when": ["Cube R1mani", "Кубик R1mani"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/r1mani"
+                }
+            },
+            {
+                "when": ["Cube Ramashka_Flower", "Кубик Ramashka_Flower"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/ramashka_flower"
+                }
+            },
+            {
+                "when": ["Cube shadowlil39", "Кубик shadowlil39"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/shadowlil39"
+                }
+            },
+            {
+                "when": ["Cube SherryJam", "Кубик SherryJam"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/sherryjam"
+                }
+            },
+            {
+                "when": ["Silver Cube", "Серебряный кубик"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/silver_plushie"
+                }
+            },
+            {
+                "when": ["Cube Sovunya", "Кубик Совунья"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/sovunya"
+                }
+            },
+            {
+                "when": ["Cube str1nks", "Кубик str1nks"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/str1nks"
+                }
+            },
+            {
+                "when": ["Cube Tecxas", "Кубик Tecxas"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/tecxas"
+                }
+            },
+            {
+                "when": ["Cube tymbohka_", "Кубик tymbohka_"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/tymbohka_"
+                }
+            },
+            {
+                "when": ["Cube UnderSaller", "Кубик UnderSaller"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/undersaller"
+                }
+            },
+            {
+                "when": ["Cube Undertekov", "Кубик Undertekov"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/undertekov"
+                }
+            },
+            {
+                "when": ["Cube Vifoxy", "Кубик Vifoxy"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/vifoxy"
+                }
+            },
+            {
+                "when": ["Cube Wolint", "Кубик Wolint"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/wolint"
+                }
+            },
+            {
+                "when": ["Cube Yawaka331", "Кубик Yawaka331"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/yawaka331"
+                }
+            },
+            {
+                "when": ["Cube yolochka", "Кубик yolochka"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/plushies/yolochka"
+                }
             }
         ],
         "fallback": {
