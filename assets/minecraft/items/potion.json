@@ -435,6 +435,13 @@
                     "type": "minecraft:model",
                     "model": "mrp:item/drinks/absinthe_liqueur"
                 }
+            },
+            {
+                "when": ["Can of Cola", "Банка колы"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/cola"
+                }
             }
 
 		],
