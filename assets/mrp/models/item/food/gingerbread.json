@@ -1,7 +1,0 @@
-{
-    "parent": "minecraft:item/generated",
-    "textures": {
-        "layer0": "mrp:item/food/gingerbread",
-		"particle": "mrp:item/food/gingerbread"
-    }
-}

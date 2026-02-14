@@ -8,9 +8,59 @@
                 "when": ["Candy Cane", "Карамельная трость"],
                 "model": {
                     "type": "minecraft:model",
-                    "model": "mrp:item/food/candycane"
+                    "model": "mrp:item/food/sweets/candycane"
+                }
+            },
+            {
+                "when": ["Halloween Candy", "Хэллоуинская конфета"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_candy"
+                }
+            },
+            {
+                "when": ["Halloween Candy Corn", "Хэллоуинская кукурузная конфета"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_candy_corn"
+                }
+            },
+            {
+                "when": ["Halloween Jelly Eye", "Хэллоуинский желейный глаз"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_jelly_eye"
+                }
+            },
+            {
+                "when": ["Halloween Jelly Pumpkin", "Хэллоуинская желейная тыква"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_jelly_pumpkin"
+                }
+            },
+            {
+                "when": ["Halloween Lollipop", "Хэллоуинский леденец на палочке"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_lollipop"
+                }
+            },
+            {
+                "when": ["Halloween Lollipop Cane", "Хэллоуинский леденец-трость"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_lollipop_cane"
+                }
+            },
+            {
+                "when": ["Bag of Halloween Candies", "Мешок с хэллоуинскими конфетами"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/sweets/halloween_candies"
                 }
             }
+
         ],
         "fallback": {
             "type": "minecraft:model",
