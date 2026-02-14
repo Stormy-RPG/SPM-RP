@@ -1,0 +1,20 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Zombie", "Зомби"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/decor/zombie"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/rotten_flesh"
+        }
+    }
+}

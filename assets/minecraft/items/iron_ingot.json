@@ -10,6 +10,13 @@
           "type": "minecraft:model",
           "model": "mirrp:item/other/birdcage"
         }
+      },
+      {
+        "when": ["New Year Garland", "Новогодняя гирлянда"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/decor/garland"
+        }
       }
     ],
     "fallback": {

@@ -1,0 +1,27 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Stem", "Стебель"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/decor/stem"
+                }
+            },
+            {
+                "when": ["Dry Stem", "Сухой стебель"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/decor/dry_stem"
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/kelp"
+        }
+    }
+}
