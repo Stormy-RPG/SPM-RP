@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "mrp:item/food/sweets/halloween_candies"
+        "layer0": "mrp:item/food/sweets/halloween_candies",
+        "particle": "mrp:item/food/sweets/halloween_candies"
     }
 }

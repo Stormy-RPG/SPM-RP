@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "mrp:item/food/sweets/halloween_lollipop_cane"
+        "layer0": "mrp:item/food/sweets/halloween_lollipop_cane",
+        "particle": "mrp:item/food/sweets/halloween_lollipop_cane"
     }
 }

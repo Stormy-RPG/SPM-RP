@@ -1,6 +1,7 @@
 {
     "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "mrp:item/food/sweets/spider"
+        "layer0": "mrp:item/food/sweets/spider",
+        "particle": "mrp:item/food/sweets/spider"
     }
 }
