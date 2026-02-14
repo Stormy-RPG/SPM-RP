@@ -34,7 +34,7 @@
 				}
 			},
 			{
-				"when": ["Mug of Cappuccino", "Кружка капучино"],
+				"when": ["Cup of Cappuccino", "Кружка капучино"],
 				"model": {
 					"type": "minecraft:model",
 					"model": "beerweeks:item/potions/drinks/coffe"
