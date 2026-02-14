@@ -6,6 +6,16 @@
     "cases": [
       {
         "when": [
+          "Present Cube",
+          "Подарочный Кубик"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/plushies/present_plushie"
+        }
+      },
+      {
+        "when": [
           "Mega Box"
         ],
         "model": {
