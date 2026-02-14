@@ -12,7 +12,7 @@
                 }
             },
             {
-                "when": ["New Year's Gingerbread", "Новогодний пряник"],
+                "when": ["Gingerbread", "Новогодний пряник"],
                 "model": {
                     "type": "minecraft:model",
                     "model": "mrp:item/food/sweets/gingerbread"
