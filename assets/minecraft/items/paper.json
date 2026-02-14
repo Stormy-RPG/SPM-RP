@@ -5,23 +5,23 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when": ["Box (Medical Bay)", "Коробка (Медицинский Отсек)"],
+                "when": ["Golden Ticket", "Золотой билет"],
                 "model": {
                     "type": "minecraft:model",
-                    "model": "mirrp:item/protocollockdown/boxes/deliverybox_cyan"
+                    "model": "mrp:item/other/golden_ticket"
                 }
             },
             {
-                "when": ["Diamond Coin", "Алмазная монета"],
+                "when": ["Ticket", "Билет"],
                 "model": {
                     "type": "minecraft:model",
-                    "model": "mrp:item/other/diamond_coin"
+                    "model": "mrp:item/other/ticket"
                 }
             }
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/diamond"
+            "model": "minecraft:item/paper"
         }
     }
 }

@@ -5,13 +5,6 @@
         "component": "minecraft:custom_name",
         "cases": [
             {
-                "when": ["Box (Medical Bay)", "Коробка (Медицинский Отсек)"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mirrp:item/protocollockdown/boxes/deliverybox_cyan"
-                }
-            },
-            {
                 "when": ["Diamond Coin", "Алмазная монета"],
                 "model": {
                     "type": "minecraft:model",
@@ -21,7 +14,7 @@
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/diamond"
+            "model": "minecraft:item/deepslate_diamond_ore"
         }
     }
 }
