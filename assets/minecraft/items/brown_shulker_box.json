@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": [
+          "Mega Box"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/brawlboxes/megabox"
+        }
+      },
+      {
+        "when": [
+          "Mini Box"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/brawlboxes/minibox"
+        }
+      },
+      {
+        "when": [
+          "Omega Box"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/brawlboxes/omegabox"
+        }
+      },
+      {
+        "when": [
+          "Big Box"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/brawlboxes/bigbox"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "model": {
+        "type": "minecraft:shulker_box",
+        "texture": "minecraft:shulker_brown",
+        "openness": 0
+      },
+      "base": "minecraft:item/brown_shulker_box"
+    }
+  }
+}
