@@ -17,6 +17,27 @@
                     "type": "minecraft:model",
                     "model": "mrp:item/other/ticket"
                 }
+            },
+            {
+                "when": ["Discord"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/logos/discord"
+                }
+            },
+            {
+                "when": ["Modrinth"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/logos/modrinth"
+                }
+            },
+            {
+                "when": ["Work"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/logos/work"
+                }
             }
         ],
         "fallback": {
