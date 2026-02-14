@@ -1,6 +1,5 @@
 {
 	"credit": "__Medved",
-	"parent": "potion",
 	"texture_size": [64, 64],
 	"textures": {
 		"4": "mrp:item/drinks/whiskey",
