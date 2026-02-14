@@ -10,6 +10,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/food/dishes/shawarma"
                 }
+            },
+            {
+                "when": ["Roast Turkey", "Жареная индейка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/roast_turkey"
+                }
             }
         ],
         "fallback": {

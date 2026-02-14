@@ -10,6 +10,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/food/dishes/candybasket"
                 }
+            },
+            {
+                "when": ["New Year's Gingerbread", "Новогодний пряник"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/food/gingerbread"
+                }
             }
         ],
         "fallback": {
