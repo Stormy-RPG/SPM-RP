@@ -1,0 +1,28 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Beer Barrel", "Пивная бочка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/beer_barrel"
+                }
+            },
+            {
+                "when": ["Wine Barrel", "Винная бочка"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/wine_barrel"
+                }
+            }
+        ],
+
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:block/barrel"
+        }
+    }
+}

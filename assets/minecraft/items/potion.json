@@ -353,6 +353,88 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/tools/inhalator"
                 }
+            },
+
+
+
+
+
+			{
+                "when": ["Syringe with Adrenaline", "Шприц с адреналином"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/meds/adrenaline"
+                }
+            },
+            {
+                "when": ["Bottle of Vodka", "Бутылка водки"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/bottle_of_vodka"
+                }
+            },
+            {
+                "when": ["Cup of Coffee", "Чашка кофе"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/coffee"
+                }
+            },
+            {
+                "when": ["Dark Beer", "Кружка тёмного пива"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/darkbeer"
+                }
+            },
+            {
+                "when": ["Jägermeister", "Бутылка егерьмейстера"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/jagermeister"
+                }
+            },
+            {
+                "when": ["Light Beer", "Кружка светлого пива"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/lightbeer"
+                }
+            },
+            {
+                "when": ["Milkshake", "Молочный коктейль"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/milkshake"
+                }
+            },
+            {
+                "when": ["Cup of Tea", "Чашка чая"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/tea"
+                }
+            },
+            {
+                "when": ["Glass of Whiskey", "Рюмка виски"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/whiskey"
+                }
+            },
+            {
+                "when": ["Wine 2", "Бокал вина 2"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/wine"
+                }
+            },
+            {
+                "when": ["Absinthe", "Стакан абсента"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/absinthe_liqueur"
+                }
             }
 
 		],

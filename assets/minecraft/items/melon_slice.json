@@ -1,0 +1,21 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:component",
+        "component": "minecraft:custom_name",
+        "cases": [
+            {
+                "when": ["Watermelon Cocktail", "Арбузный коктейль"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/watermelon_cocktail"
+                }
+            }
+        ],
+
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/melon_slice"
+        }
+    }
+}

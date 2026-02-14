@@ -1,0 +1,123 @@
+{
+	"credit": "__Medved",
+	"parent": "potion",
+	"texture_size": [32, 32],
+	"textures": {
+		"4": "mrp:item/drinks/darkbeer",
+		"particle": "mrp:item/drinks/darkbeer"
+	},
+	"elements": [
+		{
+			"name": "дно",
+			"from": [7, 0, 5],
+			"to": [13, 9, 11],
+			"faces": {
+				"north": {"uv": [0, 0, 6, 9], "texture": "#4"},
+				"east": {"uv": [6, 0, 12, 9], "texture": "#4"},
+				"south": {"uv": [6, 0, 12, 9], "texture": "#4"},
+				"west": {"uv": [0, 0, 6, 9], "texture": "#4"},
+				"up": {"uv": [6, 15, 0, 9], "texture": "#4"},
+				"down": {"uv": [12, 9, 6, 15], "texture": "#4"}
+			}
+		},
+		{
+			"name": "сака",
+			"from": [7, 8, 5],
+			"to": [13, 8, 11],
+			"faces": {
+				"north": {"uv": [7, 10, 11, 14], "texture": "#4"},
+				"east": {"uv": [6, 0, 12, 9], "texture": "#4"},
+				"south": {"uv": [6, 0, 12, 9], "texture": "#4"},
+				"west": {"uv": [0, 0, 6, 9], "texture": "#4"},
+				"up": {"uv": [7, 10, 11, 14], "texture": "#4"},
+				"down": {"uv": [12, 9, 6, 15], "texture": "#4"}
+			}
+		},
+		{
+			"from": [4, 2, 8],
+			"to": [7, 7, 8],
+			"faces": {
+				"north": {"uv": [13, 11, 16, 16], "texture": "#4"},
+				"east": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"south": {"uv": [16, 11, 13, 16], "texture": "#4"},
+				"west": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"up": {"uv": [12, 0, 16, 4], "rotation": 270, "texture": "#4"},
+				"down": {"uv": [12, 0, 16, 4], "rotation": 90, "texture": "#4"}
+			}
+		},
+		{
+			"from": [7.75, 7.75, 5.75],
+			"to": [12.25, 9.75, 10.25],
+			"faces": {
+				"north": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"east": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"south": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"west": {"uv": [12, 0, 16, 2], "texture": "#4"},
+				"up": {"uv": [12, 0, 16, 4], "rotation": 270, "texture": "#4"},
+				"down": {"uv": [12, 0, 16, 4], "rotation": 90, "texture": "#4"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-49.31, 80.72, 92.27],
+			"translation": [0, 1.75, 1.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [156.8, -84.54, 113.68],
+			"translation": [0, 2, 1.25],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 89.5, 0],
+			"translation": [2.5, 2.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 0],
+			"translation": [1.5, 2.75, 0]
+		},
+		"ground": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"gui": {
+			"rotation": [-125.71, 30.45, 150.68],
+			"translation": [0, 3.25, 0]
+		},
+		"head": {
+			"rotation": [-79.22, 6.81, 85.2],
+			"translation": [8.5, -18, -14],
+			"scale": [4, 0.2207, 4]
+		},
+		"fixed": {
+			"rotation": [-89.5, 0, 0],
+			"translation": [-2.75, -0.25, -12.75],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "кружка",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "ручка",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": []
+		},
+		{
+			"name": "пена",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": []
+		},
+		0,
+		1,
+		2,
+		3
+	]
+}

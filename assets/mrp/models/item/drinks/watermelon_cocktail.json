@@ -1,0 +1,72 @@
+{
+	"credit": "__Medved",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "mrp:item/drinks/watermelon_cocktail",
+		"particle": "mrp:item/drinks/watermelon_cocktail"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [4, 0, 4]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 2.5], "texture": "#0"},
+				"east": {"uv": [4, 2.5, 8, 5], "texture": "#0"},
+				"south": {"uv": [4, 5, 8, 7.5], "texture": "#0"},
+				"west": {"uv": [4, 7.5, 8, 10], "texture": "#0"},
+				"up": {"uv": [4, 4, 0, 0], "texture": "#0"},
+				"down": {"uv": [4, 4, 0, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 3, 6],
+			"to": [8, 9, 7],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [3, 3, 6]},
+			"faces": {
+				"north": {"uv": [15.5, 13, 16, 16], "texture": "#0"},
+				"east": {"uv": [15.5, 13, 16, 16], "texture": "#0"},
+				"south": {"uv": [15.5, 13, 16, 16], "texture": "#0"},
+				"west": {"uv": [15.5, 13, 16, 16], "texture": "#0"},
+				"up": {"uv": [10, 0.5, 10.5, 0], "texture": "#0"},
+				"down": {"uv": [10, 0, 10.5, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [57.5, 122, 0],
+			"translation": [-1.75, 5.75, 4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-126.9, 55.59, -173.96],
+			"translation": [1, 5.75, 4.5],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_righthand": {
+			"rotation": [-162.88, 65.99, 175.65],
+			"translation": [5.25, 4.25, -4.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-162.88, 65.99, 175.65],
+			"translation": [5.25, 4.25, -4.75]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"rotation": [-140.63, 43.8, 166.4],
+			"translation": [-1, 4.5, 0]
+		},
+		"head": {
+			"translation": [0, 17.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}
