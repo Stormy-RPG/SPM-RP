@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": ["Ghost Chest", "Призрачный торс"],
+        "model": {
+          "type": "minecraft:model",
+          "model": "mrp:item/armor/ghost/ghostchest"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/iron_chestplate"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "rpt:component",
+  "component": "custom_name",
+  "cases": [
+    {
+      "when": {"italic": false, "text": "Призрачная голова"},
+      "child": "mrp:entity/equipment/ghost/ghosthat"
+    },
+    {
+      "when": {"italic": false, "text": "Ghost hat"},
+      "child": "mrp:entity/equipment/ghost/ghosthat"
+    },
+    {
+      "when": {"italic": false, "text": "Призрачный торс"},
+      "child": "mrp:entity/equipment/ghost/ghostchest"
+    },
+    {
+      "when": {"italic": false, "text": "Ghost chest"},
+      "child": "mrp:entity/equipment/ghost/ghostchest"
+    }
+  ]
+}
