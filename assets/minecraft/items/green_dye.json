@@ -1,20 +1,27 @@
 {
-    "model": {
-        "type": "minecraft:select",
-        "property": "minecraft:component",
-        "component": "minecraft:custom_name",
-        "cases": [
-            {
-                "when": ["Sample G3M", "Образец G3M"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mirrp:item/protocollockdown/samples/sample_green"
-                }
-            }
-        ],
-        "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/green_dye"
-        }
-    }
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": ["Sample G3M", "Образец G3M"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mirrp:item/protocollockdown/samples/sample_green"
+				}
+			},
+			{
+				"when": ["Green Chip", "Зелёная фишка", "Зелёная покерная фишка"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/chips/f1"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/green_dye"
+		}
+	}
 }
