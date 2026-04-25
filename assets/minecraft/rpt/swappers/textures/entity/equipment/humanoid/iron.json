@@ -1,0 +1,34 @@
+{
+  "type": "rpt:component",
+  "component": "custom_name",
+  "cases": [
+    {
+      "when": "Призрачная голова",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/ghost/ghosthat.png"
+      }
+    },
+    {
+      "when": "Ghost hat",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/ghost/ghosthat.png"
+      }
+    },
+    {
+      "when": "Призрачный торс",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/ghost/ghostchest.png"
+      }
+    },
+    {
+      "when": "Ghost chest",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/ghost/ghostchest.png"
+      }
+    }
+  ]
+}
