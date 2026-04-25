@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mrp:item/armor/ghost/ghostchest"
+    "layer0": "mrp:item/armor/ghost/ghostchest",
+    "particle": "mrp:item/armor/ghost/ghostchest"
   }
 }

@@ -1,6 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "mrp:item/armor/ghost/ghosthat"
+    "layer0": "mrp:item/armor/ghost/ghosthat",
+    "particle": "mrp:item/armor/ghost/ghosthat"
   }
 }
