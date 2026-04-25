@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "mrp:item/armor/presents/xmas_sock",
+    "particle": "mrp:item/armor/presents/xmas_sock"
+  }
+}

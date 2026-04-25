@@ -10,7 +10,14 @@
           "type": "minecraft:model",
           "model": "mirrp:item/other/tomahawk"
         }
-      }
+      },
+      {
+				"when": ["Packed Axe", "Подарочный топор"],
+				"model": {
+          "type": "minecraft:model", 
+          "model": "mrp:item/presents/packed_axe"
+        }
+			}
     ],
     "fallback": {
       "type": "minecraft:model",

@@ -5,13 +5,6 @@
     "component": "minecraft:custom_name",
     "cases": [
       {
-        "when": ["DRG Pickaxe", "DRG кирка"],
-        "model": {
-          "type": "minecraft:model",
-          "model": "mirrp:item/other/drgpickaxe"
-        }
-      },
-      {
         "when": ["Packed Pickaxe", "Подарочная кирка"],
         "model": {
           "type": "minecraft:model",
@@ -21,7 +14,7 @@
     ],
     "fallback": {
       "type": "minecraft:model",
-      "model": "minecraft:item/diamond_pickaxe"
+      "model": "minecraft:item/copper_pickaxe"
     }
   }
 }

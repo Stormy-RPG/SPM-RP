@@ -573,6 +573,16 @@
                     "type": "minecraft:model",
                     "model": "mrp:item/plushies/yolochka"
                 }
+            },
+
+
+
+            {
+                "when": ["Packed Totem", "Подарочный тотем"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/presents/packed_totem"
+                }
             }
         ],
         "fallback": {

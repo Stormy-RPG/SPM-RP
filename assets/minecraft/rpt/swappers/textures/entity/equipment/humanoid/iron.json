@@ -29,6 +29,20 @@
         "type": "rpt:apply",
         "value": "mrp:textures/entity/equipment/ghost/ghostchest.png"
       }
+    },
+    {
+      "when": "Xmas Sock",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/presents/xmas_sock.png"
+      }
+    },
+    {
+      "when": "Новогодний носок",
+      "child": {
+        "type": "rpt:apply",
+        "value": "mrp:textures/entity/equipment/presents/xmas_sock.png"
+      }
     }
   ]
 }

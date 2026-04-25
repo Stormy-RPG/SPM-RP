@@ -17,6 +17,13 @@
                     "type": "minecraft:model",
                     "model": "mirrp:item/tools/shovel"
                 }
+            },
+            {
+                "when": ["Packed Shovel", "Подарочная лопата"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/presents/packed_shovel"
+                }
             }
         ],
         "fallback": {
