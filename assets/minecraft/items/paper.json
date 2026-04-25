@@ -1,48 +1,426 @@
 {
-    "model": {
-        "type": "minecraft:select",
-        "property": "minecraft:component",
-        "component": "minecraft:custom_name",
-        "cases": [
-            {
-                "when": ["Golden Ticket", "Золотой билет"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mrp:item/other/golden_ticket"
-                }
-            },
-            {
-                "when": ["Ticket", "Билет"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mrp:item/other/ticket"
-                }
-            },
-            {
-                "when": ["Discord"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mrp:item/logos/discord"
-                }
-            },
-            {
-                "when": ["Modrinth"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mrp:item/logos/modrinth"
-                }
-            },
-            {
-                "when": ["Work"],
-                "model": {
-                    "type": "minecraft:model",
-                    "model": "mrp:item/logos/work"
-                }
-            }
-        ],
-        "fallback": {
-            "type": "minecraft:model",
-            "model": "minecraft:item/paper"
-        }
-    }
+	"model": {
+		"type": "minecraft:select",
+		"property": "minecraft:component",
+		"component": "minecraft:custom_name",
+		"cases": [
+			{
+				"when": ["Golden Ticket", "Золотой билет"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/other/golden_ticket"
+				}
+			},
+			{
+				"when": ["Ticket", "Билет"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/other/ticket"
+				}
+			},
+			{
+				"when": ["Discord"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/logos/discord"
+				}
+			},
+			{
+				"when": ["Modrinth"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/logos/modrinth"
+				}
+			},
+			{
+				"when": ["Work"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/logos/work"
+				}
+			},
+			{
+				"when": ["♦ 2", "♦ Двойка", "Двойка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/2"
+				}
+			},
+			{
+				"when": ["♦ 3", "♦ Тройка", "Тройка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/3"
+				}
+			},
+			{
+				"when": ["♦ 4", "♦ Четвёрка", "Четвёрка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/4"
+				}
+			},
+			{
+				"when": ["♦ 5", "♦ Пятёрка", "Пятёрка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/5"
+				}
+			},
+			{
+				"when": ["♦ 6", "♦ Шестёрка", "Шестёрка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/6"
+				}
+			},
+			{
+				"when": ["♦ 7", "♦ Семёрка", "Семёрка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/7"
+				}
+			},
+			{
+				"when": ["♦ 8", "♦ Восьмёрка", "Восьмёрка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/8"
+				}
+			},
+			{
+				"when": ["♦ 9", "♦ Девятка", "Девятка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/9"
+				}
+			},
+			{
+				"when": ["♦ 10", "♦ Десятка", "Десятка Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/10"
+				}
+			},
+			{
+				"when": ["♦ Ace", "♦ Туз", "Туз Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/a"
+				}
+			},
+			{
+				"when": ["♦ Jack", "♦ Валет", "Валет Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/j"
+				}
+			},
+			{
+				"when": ["♦ Queen", "♦ Королева", "Королева Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/q"
+				}
+			},
+			{
+				"when": ["♦ King", "♦ Король", "Король Бубнов"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/bub/k"
+				}
+			},
+			{
+				"when": ["♥ 2", "♥ Двойка", "Двойка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/2"
+				}
+			},
+			{
+				"when": ["♥ 3", "♥ Тройка", "Тройка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/3"
+				}
+			},
+			{
+				"when": ["♥ 4", "♥ Четвёрка", "Четвёрка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/4"
+				}
+			},
+			{
+				"when": ["♥ 5", "♥ Пятёрка", "Пятёрка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/5"
+				}
+			},
+			{
+				"when": ["♥ 6", "♥ Шестёрка", "Шестёрка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/6"
+				}
+			},
+			{
+				"when": ["♥ 7", "♥ Семёрка", "Семёрка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/7"
+				}
+			},
+			{
+				"when": ["♥ 8", "♥ Восьмёрка", "Восьмёрка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/8"
+				}
+			},
+			{
+				"when": ["♥ 9", "♥ Девятка", "Девятка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/9"
+				}
+			},
+			{
+				"when": ["♥ 10", "♥ Десятка", "Десятка Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/10"
+				}
+			},
+			{
+				"when": ["♥ Ace", "♥ Туз", "Туз Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/a"
+				}
+			},
+			{
+				"when": ["♥ Jack", "♥ Валет", "Валет Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/j"
+				}
+			},
+			{
+				"when": ["♥ Queen", "♥ Королева", "Королева Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/q"
+				}
+			},
+			{
+				"when": ["♥ King", "♥ Король", "Король Червей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/k"
+				}
+			},
+			{
+				"when": ["Joker", "Джокер", "Джокер Красный"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/cherv/joker"
+				}
+			},
+			{
+				"when": ["♣ 2", "♣ Двойка", "Двойка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/2"
+				}
+			},
+			{
+				"when": ["♣ 3", "♣ Тройка", "Тройка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/3"
+				}
+			},
+			{
+				"when": ["♣ 4", "♣ Четвёрка", "Четвёрка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/4"
+				}
+			},
+			{
+				"when": ["♣ 5", "♣ Пятёрка", "Пятёрка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/5"
+				}
+			},
+			{
+				"when": ["♣ 6", "♣ Шестёрка", "Шестёрка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/6"
+				}
+			},
+			{
+				"when": ["♣ 7", "♣ Семёрка", "Семёрка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/7"
+				}
+			},
+			{
+				"when": ["♣ 8", "♣ Восьмёрка", "Восьмёрка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/8"
+				}
+			},
+			{
+				"when": ["♣ 9", "♣ Девятка", "Девятка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/9"
+				}
+			},
+			{
+				"when": ["♣ 10", "♣ Десятка", "Десятка Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/10"
+				}
+			},
+			{
+				"when": ["♣ Ace", "♣ Туз", "Туз Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/a"
+				}
+			},
+			{
+				"when": ["♣ Jack", "♣ Валет", "Валет Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/j"
+				}
+			},
+			{
+				"when": ["♣ Queen", "♣ Королева", "Королева Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/q"
+				}
+			},
+			{
+				"when": ["♣ King", "♣ Король", "Король Крестей"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/k"
+				}
+			},
+			{
+				"when": ["Joker_", "Джокер_", "Джокер Чёрный"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/krest/joker"
+				}
+			},
+			{
+				"when": ["♠ 2", "♠ Двойка", "Двойка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/2"
+				}
+			},
+			{
+				"when": ["♠ 3", "♠ Тройка", "Тройка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/3"
+				}
+			},
+			{
+				"when": ["♠ 4", "♠ Четвёрка", "Четвёрка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/4"
+				}
+			},
+			{
+				"when": ["♠ 5", "♠ Пятёрка", "Пятёрка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/5"
+				}
+			},
+			{
+				"when": ["♠ 6", "♠ Шестёрка", "Шестёрка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/6"
+				}
+			},
+			{
+				"when": ["♠ 7", "♠ Семёрка", "Семёрка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/7"
+				}
+			},
+			{
+				"when": ["♠ 8", "♠ Восьмёрка", "Восьмёрка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/8"
+				}
+			},
+			{
+				"when": ["♠ 9", "♠ Девятка", "Девятка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/9"
+				}
+			},
+			{
+				"when": ["♠ 10", "♠ Десятка", "Десятка Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/10"
+				}
+			},
+			{
+				"when": ["♠ Ace", "♠ Туз", "Туз Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/a"
+				}
+			},
+			{
+				"when": ["♠ Jack", "♠ Валет", "Валет Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/j"
+				}
+			},
+			{
+				"when": ["♠ Queen", "♠ Королева", "Королева Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/q"
+				}
+			},
+			{
+				"when": ["♠ King", "♠ Король", "Король Пик"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "mrp:item/cards/pik/k"
+				}
+			}
+		],
+		"fallback": {
+			"type": "minecraft:model",
+			"model": "minecraft:item/paper"
+		}
+	}
 }
