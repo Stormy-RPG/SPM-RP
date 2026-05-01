@@ -373,6 +373,13 @@
                     "model": "mrp:item/drinks/bottle_of_vodka"
                 }
             },
+			{
+                "when": ["Glass of Vodka", "Рюмка водки"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/vodka"
+                }
+            },
             {
                 "when": ["Cup of Coffee", "Чашка кофе"],
                 "model": {
