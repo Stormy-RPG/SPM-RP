@@ -430,6 +430,13 @@
                 }
             },
             {
+                "when": ["Whiskey-Cola", "Виски-кола"],
+                "model": {
+                    "type": "minecraft:model",
+                    "model": "mrp:item/drinks/whiskey-cola"
+                }
+            },
+            {
                 "when": ["Absinthe", "Стакан абсента"],
                 "model": {
                     "type": "minecraft:model",
