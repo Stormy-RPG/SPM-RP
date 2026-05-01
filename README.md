@@ -8,6 +8,8 @@
 <img alt="Item List Document" height="48" src="https://cdn.modrinth.com/data/cached_images/7e02c98f0b4d566233cf3ddc86c1f800cccf68d4_0.webp">
 </a>
 
+[![Modrinth](https://img.shields.io/modrinth/dt/spm-rp?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/resourcepack/spm-rp)
+
 **Now in: [КПБСПМ - SPm Edition](https://modrinth.com/modpack/kpbspm-spm-edition)**
 
 </div>
