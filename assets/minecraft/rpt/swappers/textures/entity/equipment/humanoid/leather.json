@@ -6,14 +6,14 @@
       "when": "Xmas Sock",
       "child": {
         "type": "rpt:apply",
-        "value": "mrp:textures/entity/equipment/presents/xmas_sock.png"
+        "value": "mrp:textures/entity/equipment/presents/xmas_sock_leather.png"
       }
     },
     {
       "when": "Новогодний носок",
       "child": {
         "type": "rpt:apply",
-        "value": "mrp:textures/entity/equipment/presents/xmas_sock.png"
+        "value": "mrp:textures/entity/equipment/presents/xmas_sock_leather.png"
       }
     }
   ]
