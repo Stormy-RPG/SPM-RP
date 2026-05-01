@@ -110,7 +110,7 @@
                 }
             },
             {
-                "when": ["Brass Bell", "Медный колокол"],
+                "when": ["Brass Bell", "Латунный колокол"],
                 "model": {
                     "type": "minecraft:model",
                     "model": "mirrp:item/scrap/brassbell"
