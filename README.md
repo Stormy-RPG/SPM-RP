@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://spworlds.ru/spm/feed">
+<a href="https://modrinth.com/resourcepack/spm-rp">
 <img alt="SPm Community" height="48" src="https://cdn.modrinth.com/data/cached_images/c416385cb011e30dd82292060447eeca195c82bc.png">
 </a>
 &nbsp;&nbsp;
