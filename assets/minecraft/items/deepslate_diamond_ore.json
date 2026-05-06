@@ -14,7 +14,7 @@
         ],
         "fallback": {
             "type": "minecraft:model",
-            "model": "minecraft:item/deepslate_diamond_ore"
+            "model": "minecraft:block/deepslate_diamond_ore"
         }
     }
 }
