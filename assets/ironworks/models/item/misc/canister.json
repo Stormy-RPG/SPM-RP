@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ironworks:misc/canister",
-		"particle": "ironworks:misc/canister"
+		"0": "ironworks:item/misc/canister",
+		"particle": "ironworks:item/misc/canister"
 	},
 	"elements": [
 		{

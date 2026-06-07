@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ironworks:tools/simple_sledgehammer",
-		"particle": "ironworks:tools/simple_sledgehammer"
+		"0": "ironworks:item/tools/simple_sledgehammer",
+		"particle": "ironworks:item/tools/simple_sledgehammer"
 	},
 	"elements": [
 		{

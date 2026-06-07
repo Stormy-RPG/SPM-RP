@@ -49,27 +49,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mac-10"
+                "model": "ironworks:item/guns/mac-10"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mac-10"
+                "model": "ironworks:item/guns/mac-10"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mac-10"
+                "model": "ironworks:item/guns/mac-10"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:guns/mac-10"
+            "model": "ironworks:item/guns/mac-10"
           }
         }
       },
@@ -83,27 +83,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mp5"
+                "model": "ironworks:item/guns/mp5"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mp5"
+                "model": "ironworks:item/guns/mp5"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/mp5"
+                "model": "ironworks:item/guns/mp5"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:guns/mp5"
+            "model": "ironworks:item/guns/mp5"
           }
         }
       },
@@ -117,27 +117,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/tec-9"
+                "model": "ironworks:item/guns/tec-9"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/tec-9"
+                "model": "ironworks:item/guns/tec-9"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:guns/tec-9"
+                "model": "ironworks:item/guns/tec-9"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:guns/tec-9"
+            "model": "ironworks:item/guns/tec-9"
           }
         }
       }

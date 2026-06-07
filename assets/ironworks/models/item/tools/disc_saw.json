@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ironworks:tools/disc_saw",
-		"particle": "ironworks:tools/disc_saw"
+		"0": "ironworks:item/tools/disc_saw",
+		"particle": "ironworks:item/tools/disc_saw"
 	},
 	"elements": [
 		{

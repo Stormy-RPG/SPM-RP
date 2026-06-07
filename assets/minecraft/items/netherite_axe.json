@@ -22,21 +22,21 @@
 				"when": ["Chainsaw Reaper", "Бензопила \"Жнец\""],
 				"model": {
 					"type": "minecraft:model",
-					"model": "ironworks:tools/chainsaw_reaper"
+					"model": "ironworks:item/tools/chainsaw_reaper"
 				}
 			},
 			{
 				"when": ["Disc Saw", "Дисковая пила"],
 				"model": {
 					"type": "minecraft:model",
-					"model": "ironworks:tools/disc_saw"
+					"model": "ironworks:item/tools/disc_saw"
 				}
 			},
 			{
 				"when": ["Simple Sledgehammer", "Простая кувалда"],
 				"model": {
 					"type": "minecraft:model",
-					"model": "ironworks:tools/simple_sledgehammer"
+					"model": "ironworks:item/tools/simple_sledgehammer"
 				}
 			}
     ],

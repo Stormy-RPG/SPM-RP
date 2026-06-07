@@ -8,7 +8,7 @@
         "when": ["Fuel Canister", "Канистра с горючим"],
         "model": {
           "type": "minecraft:model",
-          "model": "ironworks:misc/canister"
+          "model": "ironworks:item/misc/canister"
         }
       }
     ],
