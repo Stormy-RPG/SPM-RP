@@ -10,6 +10,27 @@
                     "type": "minecraft:model", 
                     "model": "mrp:item/presents/packed_axe"
                 }
+			},
+			{
+				"when": ["Chainsaw Reaper", "Бензопила \"Жнец\""],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ironworks:tools/chainsaw_reaper"
+				}
+			},
+			{
+				"when": ["Disc Saw", "Дисковая пила"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ironworks:tools/disc_saw"
+				}
+			},
+			{
+				"when": ["Simple Sledgehammer", "Простая кувалда"],
+				"model": {
+					"type": "minecraft:model",
+					"model": "ironworks:tools/simple_sledgehammer"
+				}
 			}
 		],
 		"fallback": {
