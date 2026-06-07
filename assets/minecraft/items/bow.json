@@ -49,21 +49,21 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10"
+                "model": "ironworks:item/guns/mac-10_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10"
+                "model": "ironworks:item/guns/mac-10_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10"
+                "model": "ironworks:item/guns/mac-10_pulling"
               }
             }
           ],
@@ -74,7 +74,7 @@
         }
       },
       {
-        "when": ["MP5"],
+        "when": ["UZI"],
         "model": {
           "type": "minecraft:range_dispatch",
           "property": "minecraft:use_duration",
@@ -83,27 +83,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mp5"
+                "model": "ironworks:item/guns/uzi_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mp5"
+                "model": "ironworks:item/guns/uzi_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mp5"
+                "model": "ironworks:item/guns/uzi_pulling"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:item/guns/mp5"
+            "model": "ironworks:item/guns/uzi"
           }
         }
       },
@@ -117,21 +117,21 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9"
+                "model": "ironworks:item/guns/tec-9_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9"
+                "model": "ironworks:item/guns/tec-9_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9"
+                "model": "ironworks:item/guns/tec-9_pulling"
               }
             }
           ],
