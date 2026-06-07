@@ -38,6 +38,108 @@
             "model": "mirrp:item/protocollockdown/revolver"
           }
         }
+      },
+            {
+        "when": ["MAC-10"],
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:use_duration",
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mac-10"
+              }
+            },
+            {
+              "threshold": 13,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mac-10"
+              }
+            },
+            {
+              "threshold": 18,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mac-10"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "ironworks:guns/mac-10"
+          }
+        }
+      },
+      {
+        "when": ["MP5"],
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:use_duration",
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mp5"
+              }
+            },
+            {
+              "threshold": 13,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mp5"
+              }
+            },
+            {
+              "threshold": 18,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/mp5"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "ironworks:guns/mp5"
+          }
+        }
+      },
+      {
+        "when": ["TEC-9"],
+        "model": {
+          "type": "minecraft:range_dispatch",
+          "property": "minecraft:use_duration",
+          "entries": [
+            {
+              "threshold": 1,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/tec-9"
+              }
+            },
+            {
+              "threshold": 13,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/tec-9"
+              }
+            },
+            {
+              "threshold": 18,
+              "model": {
+                "type": "minecraft:model",
+                "model": "ironworks:guns/tec-9"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "ironworks:guns/tec-9"
+          }
+        }
       }
     ],
     "fallback": {
