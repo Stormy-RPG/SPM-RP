@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "ironworks:item/guns/tec-9",
-		"particle": "ironworks:item/guns/tec-9"
+		"0": "ironworks:item/guns/famae",
+		"particle": "ironworks:item/guns/famae"
 	},
 	"elements": [
 		{
@@ -122,14 +122,14 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_righthand": {
-			"rotation": [22, 5, 6],
-			"translation": [3.5, 0, -11],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [2, -3, 2],
+			"translation": [-0.75, 0.75, -2.75],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
-			"rotation": [22, 5, 6],
-			"translation": [3.5, 0, -11],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [2, -3, 2],
+			"translation": [-0.75, 0.75, -2.75],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
 			"rotation": [-11.25, -22.48, 94.15],
@@ -142,7 +142,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"fixed": {
-			"rotation": [0, -90, 0]
+			"rotation": [0, -90, 0],
+			"translation": [0, 0, -1.25]
 		},
 		"on_shelf": {
 			"rotation": [90, 0, 90]

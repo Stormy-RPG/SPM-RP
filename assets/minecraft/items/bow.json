@@ -40,7 +40,7 @@
         }
       },
             {
-        "when": ["MAC-10"],
+        "when": ["Mendoza HM-3"],
         "model": {
           "type": "minecraft:range_dispatch",
           "property": "minecraft:use_duration",
@@ -49,27 +49,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10_pulling"
+                "model": "ironworks:item/guns/mendoza_hm-3_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10_pulling"
+                "model": "ironworks:item/guns/mendoza_hm-3_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/mac-10_pulling"
+                "model": "ironworks:item/guns/mendoza_hm-3_pulling"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:item/guns/mac-10"
+            "model": "ironworks:item/guns/mendoza_hm-3"
           }
         }
       },
@@ -108,7 +108,7 @@
         }
       },
       {
-        "when": ["TEC-9"],
+        "when": ["FAMAE"],
         "model": {
           "type": "minecraft:range_dispatch",
           "property": "minecraft:use_duration",
@@ -117,32 +117,32 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9_pulling"
+                "model": "ironworks:item/guns/famae_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9_pulling"
+                "model": "ironworks:item/guns/famae_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/tec-9_pulling"
+                "model": "ironworks:item/guns/famae_pulling"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:item/guns/tec-9"
+            "model": "ironworks:item/guns/famae"
           }
         }
       },
             {
-        "when": ["HK UMP"],
+        "when": ["MP5K"],
         "model": {
           "type": "minecraft:range_dispatch",
           "property": "minecraft:use_duration",
@@ -151,27 +151,27 @@
               "threshold": 1,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/hk_ump_pulling"
+                "model": "ironworks:item/guns/mp5k_pulling"
               }
             },
             {
               "threshold": 13,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/hk_ump_pulling"
+                "model": "ironworks:item/guns/mp5k_pulling"
               }
             },
             {
               "threshold": 18,
               "model": {
                 "type": "minecraft:model",
-                "model": "ironworks:item/guns/hk_ump_pulling"
+                "model": "ironworks:item/guns/mp5k_pulling"
               }
             }
           ],
           "fallback": {
             "type": "minecraft:model",
-            "model": "ironworks:item/guns/hk_ump"
+            "model": "ironworks:item/guns/mp5k"
           }
         }
       },
